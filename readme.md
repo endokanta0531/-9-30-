@@ -14,12 +14,15 @@ Python版とJava版があります。
 ## 実行方法
 - Python版   
 1.ターミナルでフォルダに移動   
-2.以下を実行:Python janken.py   
+2.以下を実行   
+```Python janken.py```   
 
 - Java版   
 1.ターミナルでフォルダに移動   
-2.コンパイル:Javac Janken.java   
-3.実行:java janken   
+2.コンパイル   
+```Javac Janken.java```   
+3.実行   
+```java janken```
 
 ## 遊び方
 
